@@ -10,3 +10,7 @@ spec/dummy/.sass-cache
 /Gemfile.lock
 /MIT-LICENSE
 coverage
+/.rakeTasks
+/.idea
+.byebug_history
+

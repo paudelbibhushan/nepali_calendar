@@ -1,7 +1,8 @@
-$:.push File.expand_path("../lib", __FILE__)
+# frozen_string_literal: true
 
+$:.push File.expand_path("../lib", __FILE__)
 # Maintain your gem's version:
-require "nepali_calendar/version"
+require 'nepali_calendar/version'
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |spec|
