@@ -27,5 +27,4 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rake', '~> 12.2'
   spec.add_development_dependency 'rspec', '~> 3.2'
   spec.add_development_dependency "sqlite3"
-  spec.add_runtime_dependency "simplecov", "<= 0.13"
 end
